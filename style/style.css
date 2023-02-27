@@ -31,6 +31,8 @@ body{
     gap: 35px;
     font-size: 20px;
     list-style: none;
+    border-left: 2px solid white;
+    padding-left: 50px;
 }
 
 .navbar div button{
